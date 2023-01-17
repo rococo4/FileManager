@@ -1,0 +1,16 @@
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.exe
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.deps.json
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.json
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.runtimeconfig.dev.json
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.dll
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\ref\FileManager.dll
+F:\прога\FileManager\FileManager\bin\Debug\net5.0\FileManager.pdb
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.AssemblyReference.cache
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.GeneratedMSBuildEditorConfig.editorconfig
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfoInputs.cache
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.AssemblyInfo.cs
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.csproj.CoreCompileInputs.cache
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.dll
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\ref\FileManager.dll
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.pdb
+F:\прога\FileManager\FileManager\obj\Debug\net5.0\FileManager.genruntimeconfig.cache

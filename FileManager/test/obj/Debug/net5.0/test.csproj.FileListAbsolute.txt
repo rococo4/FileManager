@@ -1,0 +1,16 @@
+F:\прога\FileManager\test\bin\Debug\net5.0\test.exe
+F:\прога\FileManager\test\bin\Debug\net5.0\test.deps.json
+F:\прога\FileManager\test\bin\Debug\net5.0\test.runtimeconfig.json
+F:\прога\FileManager\test\bin\Debug\net5.0\test.runtimeconfig.dev.json
+F:\прога\FileManager\test\bin\Debug\net5.0\test.dll
+F:\прога\FileManager\test\bin\Debug\net5.0\ref\test.dll
+F:\прога\FileManager\test\bin\Debug\net5.0\test.pdb
+F:\прога\FileManager\test\obj\Debug\net5.0\test.csproj.AssemblyReference.cache
+F:\прога\FileManager\test\obj\Debug\net5.0\test.GeneratedMSBuildEditorConfig.editorconfig
+F:\прога\FileManager\test\obj\Debug\net5.0\test.AssemblyInfoInputs.cache
+F:\прога\FileManager\test\obj\Debug\net5.0\test.AssemblyInfo.cs
+F:\прога\FileManager\test\obj\Debug\net5.0\test.csproj.CoreCompileInputs.cache
+F:\прога\FileManager\test\obj\Debug\net5.0\test.dll
+F:\прога\FileManager\test\obj\Debug\net5.0\ref\test.dll
+F:\прога\FileManager\test\obj\Debug\net5.0\test.pdb
+F:\прога\FileManager\test\obj\Debug\net5.0\test.genruntimeconfig.cache
